@@ -6,5 +6,5 @@ float maxarray (float a [], int b){
         if (r < a [i]) {
             r = a [i];
         }
-    } return r;
+    }return r;
 }
